@@ -41,7 +41,7 @@ namespace ExpressõesLambda
                 Console.WriteLine("{0}",i);
 
             
-            var SelecoesMundiais = new List<string>(new string[] {"USA", "Africa", "Mexico", "Brasil" });
+            var SelecoesMundiais = new List<string>(new string[] {"USA", "Africa", "Mexico", "Mexico", "Brasil" });
 
             var MelhorSelecao = SelecoesMundiais.Cast<string>().Where(n => n == "Brasil").ToList();
 
@@ -56,7 +56,16 @@ namespace ExpressõesLambda
 
             foreach(var t in MelhorSelecao2)
                 Console.WriteLine("Filtro 2: {0}",t);
-                
+
+
+            var semAmbiguidade = SelecoesMundiais.Distinct().ToList();
+
+            semAmbiguidade.ForEach(n => ModificarString(n));
+        }
+
+        static string ModificarString(string arg)
+        {
+            return arg.ToUpper();     
         }
     }
 }
