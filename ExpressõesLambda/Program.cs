@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace ExpressõesLambda
 {
-        class Program
+    class Program
     {
         static void Main(string[] args)
         {
