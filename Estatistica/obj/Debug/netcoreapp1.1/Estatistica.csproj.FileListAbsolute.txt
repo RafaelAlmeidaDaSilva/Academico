@@ -1,0 +1,8 @@
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/bin/Debug/netcoreapp1.1/Estatistica.deps.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/bin/Debug/netcoreapp1.1/Estatistica.runtimeconfig.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/bin/Debug/netcoreapp1.1/Estatistica.runtimeconfig.dev.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/bin/Debug/netcoreapp1.1/Estatistica.dll
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/bin/Debug/netcoreapp1.1/Estatistica.pdb
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/obj/Debug/netcoreapp1.1/Estatistica.AssemblyInfo.cs
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/obj/Debug/netcoreapp1.1/Estatistica.dll
+/home/rafaelalmeidadasilva/Documentos/Fatec/Estatistica/obj/Debug/netcoreapp1.1/Estatistica.pdb
