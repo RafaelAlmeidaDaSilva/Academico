@@ -44,6 +44,7 @@ namespace Estatistica
 
             Console.WriteLine("Amostra: ");
             list.ForEach(n => Console.WriteLine(n));
+
             Media media = new Media();        
             Console.WriteLine("Média Aritmética:{0}", media.aritmetica(list));
             Console.WriteLine("Média Geométrica:{0}", media.geometrica(list));
