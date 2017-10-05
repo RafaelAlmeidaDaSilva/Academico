@@ -1,0 +1,18 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.Form1.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.pdb
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.exe.config
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.exe
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.pdb
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.exe
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\bin\Debug\BuscarArquivosDoDiretorio.pdb
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.csprojResolveAssemblyReference.cache
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.Form1.resources
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.Properties.Resources.resources
+J:\_PESSOAL\_PROJETOS\C#\Recursos Key\BuscarArquivosDoDiretorio\BuscarArquivosDoDiretorio\obj\Debug\BuscarArquivosDoDiretorio.csproj.GenerateResource.Cache

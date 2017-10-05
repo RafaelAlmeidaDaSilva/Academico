@@ -1,0 +1,50 @@
+.principal
+{
+
+	background-color:#ddd; /* cinza claro*/
+	
+	width: 1200px;
+
+	/*margin é o controle do espaço exterior 
+	do box.*/
+	
+	/*margin: 20px;*/ /*deixa um margin de 20px 
+				   de todos os lados da box*/
+	margin :auto;
+	
+	/*para centralizar o objeto na dela se 
+	utiliza o valor auto no atributo margin*/
+
+
+	/*Por padrão os objeto são alinhados 
+	a esquerda automaticamente */			   
+
+	/* Para deixar alinhada a direita
+	precisa-se fazer ela flutuar.*/
+	 
+	/* float:right; */
+
+	/*determinar a distancia da direita*/
+
+	/* padding é o controle do espaço interior
+	 do box.  */
+
+	 padding: 30px;
+
+	 /* A box cresce com o aumento do padding*/
+
+	 /* para aumentor o tamanho do espaçamento
+	 sem alterar da box, utilizará o Box-size*/
+
+
+
+}
+
+section {
+
+	background-color: #fff;
+	width: 1000px;
+	margin: auto;
+	padding: 300px;
+	box-sizing: border-box;
+}

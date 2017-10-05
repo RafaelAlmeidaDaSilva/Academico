@@ -1,0 +1,16 @@
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ExecutarBat.dll
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ExecutarBat.pdb
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ResolveAssemblyReference.cache
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ExecutarBat.dll
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ExecutarBat.pdb
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\Email.dll
+J:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\Email.pdb
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ExecutarBat.dll
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ExecutarBat.pdb
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\Email.dll
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ObterIp.dll
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\Email.pdb
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Debug\ObterIp.pdb
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ExecutarBat.csprojResolveAssemblyReference.cache
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ExecutarBat.dll
+H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Debug\ExecutarBat.pdb

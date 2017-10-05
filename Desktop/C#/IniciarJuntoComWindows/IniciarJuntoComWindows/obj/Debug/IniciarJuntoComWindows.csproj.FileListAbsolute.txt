@@ -1,0 +1,21 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.Form1.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.exe.config
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.exe
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.exe
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\bin\Debug\IniciarJuntoComWindows.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.Form1.resources
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.Properties.Resources.resources
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\IniciarJuntoComWindows\IniciarJuntoComWindows\obj\Debug\IniciarJuntoComWindows.csproj.GenerateResource.Cache

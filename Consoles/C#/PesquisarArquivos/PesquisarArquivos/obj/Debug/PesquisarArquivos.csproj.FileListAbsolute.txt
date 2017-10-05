@@ -1,0 +1,9 @@
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\bin\Debug\PesquisarArquivos.exe.config
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\bin\Debug\PesquisarArquivos.exe
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\bin\Debug\PesquisarArquivos.pdb
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\obj\Debug\PesquisarArquivos.csprojResolveAssemblyReference.cache
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\obj\Debug\PesquisarArquivos.exe
+c:\users\orion\documents\visual studio 2015\Projects\PesquisarArquivos\PesquisarArquivos\obj\Debug\PesquisarArquivos.pdb
+J:\_PESSOAL\_PROJETOS\C#\PesquisarArquivos\PesquisarArquivos\bin\Debug\PesquisarArquivos.exe.config
+J:\_PESSOAL\_PROJETOS\C#\PesquisarArquivos\PesquisarArquivos\obj\Debug\PesquisarArquivos.exe
+J:\_PESSOAL\_PROJETOS\C#\PesquisarArquivos\PesquisarArquivos\obj\Debug\PesquisarArquivos.pdb

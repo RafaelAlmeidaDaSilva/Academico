@@ -1,0 +1,9 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\bin\Debug\Speech.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\bin\Debug\Speech.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\bin\Debug\Speech.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.Form1.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Speech\Speech\obj\Debug\Speech.pdb

@@ -1,0 +1,59 @@
+div.border
+{
+	background-color: #ccc; /* cor de fundo cinza*/
+	width: 300px; 	/*largura*/
+	height: 300px;	/*altura*/
+	margin: auto;	/* centralizado ao meio*/
+	border: 20px solid #333; /* As informações necessarias
+	 para a borda[tamanho(GROSSURA) + tipo + cor]*/
+	border-radius: 200px 50px 50px 50px; /*Arrendondando os cantos da borda*/
+	
+	/* vl = valor
+		
+	[vl-1] [vl-2] [vl-3] [vl-4]
+
+	vl-1 : canto superior esquerdo ;
+	vl-2 : canto superior direito ;
+	vl-3 : canto superior esquerdo ;
+	vl-4 : canto superior direito ;
+
+	 */
+
+	/*
+		se tiver apenas um valor para o border-radius
+	 sera aplicado esse valor para todos os canto da 
+	 borda.
+
+	 */
+
+	 box-shadow: 10px 10px 10px red;
+	/* 
+	 box-shadow é a sobra da box.
+
+	[parte direita] [ parte esquerda ]
+	 [Opacidade] [cor]
+
+	 */
+
+
+}
+
+div.text
+{
+	background-color: #fff; /* cor de fundo cinza*/
+	width: 300px; 	/*largura*/
+	height: 300px;	/*altura*/
+	margin: auto;	/* centralizado a box ao meio da
+	page */
+	margin-top: 200px; 
+	text-shadow: 10px 10px 5px red;
+	/* 
+	  text-shadow é a sobra da box.
+
+	[parte direita] [ parte esquerda ]
+	 [Opacidade] [cor]
+
+	 */
+
+	font-size: 50px;
+}

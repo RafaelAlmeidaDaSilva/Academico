@@ -1,0 +1,174 @@
+
+H:\C# Projetos\Projetos\AnaliseIP\Principal\bin\Debug>ECHO Executando cmd 
+Executando cmd
+
+H:\C# Projetos\Projetos\AnaliseIP\Principal\bin\Debug>ipconfig /all 
+
+Configura‡Æo de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : Bruno-PC
+   Sufixo DNS prim rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h¡brido
+   Roteamento de IP ativado. . . . . . . . . . : nÆo
+   Proxy WINS ativado. . . . . . . . . . . . . : nÆo
+
+Adaptador Ethernet ConexÆo local:
+
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : JMicron PCI Express Fast Ethernet Adapter
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 44-87-7F-DD-A8-99
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+   Endere‡o IPv6 de link local . . . . . . . . : fe80::3950:2564:fade:f6b1%11(Preferencial) 
+   Endere‡o IPv4. . . . . . . .  . . . . . . . : 192.168.0.113(Preferencial) 
+   M scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   ConcessÆo Obtida. . . . . . . . . . . . . . : domingo, 27 de setembro de 2015 02:05:18
+   ConcessÆo Expira. . . . . . . . . . . . . . : domingo, 4 de outubro de 2015 02:05:18
+   Gateway PadrÆo. . . . . . . . . . . . . . . : 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 189040511
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-1D-8E-8D-45-44-87-7F-DD-A8-99
+   Servidores DNS. . . . . . . . . . . . . . . : 8.8.8.8
+                                                 8.8.4.4
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Hamachi:
+
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Hamachi Network Interface
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 7A-79-19-0D-B8-12
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+   Endere‡o IPv6 . . . . . . . . . . . . . . . : 2620:9b::190d:b812(Preferencial) 
+   Endere‡o IPv6 de link local . . . . . . . . : fe80::547c:be64:1991:a3b3%13(Preferencial) 
+   Endere‡o IPv4. . . . . . . .  . . . . . . . : 25.13.184.18(Preferencial) 
+   M scara de Sub-rede . . . . . . . . . . . . : 255.0.0.0
+   ConcessÆo Obtida. . . . . . . . . . . . . . : domingo, 27 de setembro de 2015 02:05:18
+   ConcessÆo Expira. . . . . . . . . . . . . . : domingo, 27 de setembro de 2015 12:15:46
+   Gateway PadrÆo. . . . . . . . . . . . . . . : 2620:9b::1900:1
+                                                 25.0.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 25.0.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 326793717
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-1D-8E-8D-45-44-87-7F-DD-A8-99
+   Servidores DNS. . . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                                 fec0:0:0:ffff::2%1
+                                                 fec0:0:0:ffff::3%1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet VirtualBox Host-Only Network:
+
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 08-00-27-00-18-D5
+   DHCP Habilitado . . . . . . . . . . . . . . : NÆo
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+   Endere‡o IPv6 de link local . . . . . . . . : fe80::607b:c2a7:52c:4b23%18(Preferencial) 
+   Endere‡o IPv4. . . . . . . .  . . . . . . . : 192.168.56.1(Preferencial) 
+   M scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway PadrÆo. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 470286375
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-1D-8E-8D-45-44-87-7F-DD-A8-99
+   Servidores DNS. . . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                                 fec0:0:0:ffff::2%1
+                                                 fec0:0:0:ffff::3%1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de t£nel isatap.{AA1CF34D-2485-4E6C-BA8E-9A8B0E118F4A}:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Adaptador do Microsoft ISATAP
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : NÆo
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : NÆo
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de t£nel isatap.{641DDA3E-B9F5-4E6C-A65D-26AD98399A02}:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Adaptador do Microsoft ISATAP #2
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : NÆo
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+Adaptador de t£nel isatap.{83FB50AD-8786-4FB0-8CCF-6D4F73CB2CE5}:
+
+   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
+   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Descri‡Æo . . . . . . . . . . . . . . . . . : Adaptador do Microsoft ISATAP #3
+   Endere‡o F¡sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : NÆo
+   Configura‡Æo Autom tica Habilitada. . . . . : Sim
+
+H:\C# Projetos\Projetos\AnaliseIP\Principal\bin\Debug>netstat -n 
+
+Conexäes ativas
+
+  Proto  Endere‡o local         Endere‡o externo       Estado
+  TCP    127.0.0.1:1143         127.0.0.1:1144         ESTABLISHED
+  TCP    127.0.0.1:1144         127.0.0.1:1143         ESTABLISHED
+  TCP    127.0.0.1:5357         127.0.0.1:11948        TIME_WAIT
+  TCP    192.168.0.113:5610     194.68.29.83:80        ESTABLISHED
+  TCP    192.168.0.113:9877     199.27.79.246:80       ESTABLISHED
+  TCP    192.168.0.113:9878     173.194.118.108:80     ESTABLISHED
+  TCP    192.168.0.113:9879     173.194.118.122:443    ESTABLISHED
+  TCP    192.168.0.113:9881     173.194.118.122:80     ESTABLISHED
+  TCP    192.168.0.113:9885     69.25.24.23:80         ESTABLISHED
+  TCP    192.168.0.113:9890     173.194.118.109:443    ESTABLISHED
+  TCP    192.168.0.113:9892     190.98.146.24:80       ESTABLISHED
+  TCP    192.168.0.113:10003    104.88.127.248:80      ESTABLISHED
+  TCP    192.168.0.113:10004    162.248.16.37:80       ESTABLISHED
+  TCP    192.168.0.113:10009    23.32.116.174:80       ESTABLISHED
+  TCP    192.168.0.113:11683    137.116.84.115:443     ESTABLISHED
+  TCP    192.168.0.113:11702    65.55.44.24:443        ESTABLISHED
+  TCP    192.168.0.113:11717    104.88.127.248:80      ESTABLISHED
+  TCP    192.168.0.113:11789    104.88.127.248:443     ESTABLISHED
+  TCP    192.168.0.113:11826    173.194.118.106:443    ESTABLISHED
+  TCP    192.168.0.113:11827    173.194.118.109:443    ESTABLISHED
+  TCP    192.168.0.113:11828    173.194.118.3:80       ESTABLISHED
+  TCP    192.168.0.113:11836    173.194.118.109:80     ESTABLISHED
+  TCP    192.168.0.113:11845    62.67.193.35:80        ESTABLISHED
+  TCP    192.168.0.113:11851    23.235.40.166:80       ESTABLISHED
+  TCP    192.168.0.113:11855    198.54.12.128:80       ESTABLISHED
+  TCP    192.168.0.113:11864    104.88.79.90:80        ESTABLISHED
+  TCP    192.168.0.113:11865    173.194.118.124:443    ESTABLISHED
+  TCP    192.168.0.113:11866    185.86.138.32:80       ESTABLISHED
+  TCP    192.168.0.113:11881    54.230.56.252:80       ESTABLISHED
+  TCP    192.168.0.113:11886    192.100.214.253:80     ESTABLISHED
+  TCP    192.168.0.113:11893    50.97.236.98:80        ESTABLISHED
+  TCP    192.168.0.113:11897    199.16.158.74:443      ESTABLISHED
+  TCP    192.168.0.113:11900    198.57.30.31:80        ESTABLISHED
+  TCP    192.168.0.113:11917    173.194.118.111:80     ESTABLISHED
+  TCP    192.168.0.113:11919    173.194.118.107:443    ESTABLISHED
+  TCP    192.168.0.113:11920    216.58.222.4:443       ESTABLISHED
+  TCP    192.168.0.113:11921    146.148.94.106:443     ESTABLISHED
+  TCP    192.168.0.113:11925    65.55.183.182:443      ESTABLISHED
+  TCP    192.168.0.113:11926    65.55.118.93:443       ESTABLISHED
+  TCP    192.168.0.113:11927    65.55.246.20:443       ESTABLISHED
+  TCP    192.168.0.113:11928    65.55.246.20:443       ESTABLISHED
+  TCP    192.168.0.113:11930    54.243.33.144:80       ESTABLISHED
+  TCP    192.168.0.113:11932    108.161.187.186:80     TIME_WAIT
+  TCP    192.168.0.113:11933    190.98.146.35:80       ESTABLISHED
+  TCP    192.168.0.113:11934    190.98.146.35:80       TIME_WAIT
+  TCP    192.168.0.113:11935    162.248.16.24:80       TIME_WAIT
+  TCP    192.168.0.113:11936    162.248.16.24:80       TIME_WAIT
+  TCP    192.168.0.113:11937    107.21.220.46:443      ESTABLISHED
+  TCP    192.168.0.113:11938    104.24.107.4:80        ESTABLISHED
+  TCP    192.168.0.113:11941    209.95.50.232:80       CLOSE_WAIT
+  TCP    192.168.0.113:11943    209.95.50.232:80       CLOSE_WAIT
+  TCP    192.168.0.113:11947    192.168.0.1:49152      ESTABLISHED
+  TCP    [::1]:2869             [::1]:11946            ESTABLISHED
+  TCP    [::1]:11737            [::1]:11738            ESTABLISHED
+  TCP    [::1]:11738            [::1]:11737            ESTABLISHED
+  TCP    [::1]:11946            [::1]:2869             ESTABLISHED
+  TCP    [fe80::607b:c2a7:52c:4b23%18]:11944  [fe80::918b:42b8:8bda:4ac2%18]:2869  SYN_SENT
+  TCP    [fe80::607b:c2a7:52c:4b23%18]:11945  [fe80::918b:42b8:8bda:4ac2%18]:2869  SYN_SENT

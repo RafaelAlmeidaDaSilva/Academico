@@ -1,0 +1,18 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\bin\Debug\Principal.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\bin\Debug\Principal.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\bin\Debug\Principal.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Motivacao\Principal\obj\Debug\Principal.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\bin\Debug\Principal.exe.config
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.exe
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\bin\Debug\Principal.exe
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\bin\Debug\Principal.pdb
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.Form1.resources
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.Properties.Resources.resources
+I:\_PESSOAL\_PROJETOS\C#\Recursos Key\Motivacao\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
