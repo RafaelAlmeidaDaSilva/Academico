@@ -1,8 +1,0 @@
-H:\C# Projetos\Projetos\AnaliseIP\Email\bin\Release\Email.dll.config
-H:\C# Projetos\Projetos\AnaliseIP\Email\bin\Release\Email.dll
-H:\C# Projetos\Projetos\AnaliseIP\Email\bin\Release\Email.pdb
-H:\C# Projetos\Projetos\AnaliseIP\Email\bin\Release\ObterIp.dll
-H:\C# Projetos\Projetos\AnaliseIP\Email\bin\Release\ObterIp.pdb
-H:\C# Projetos\Projetos\AnaliseIP\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
-H:\C# Projetos\Projetos\AnaliseIP\Email\obj\Release\Email.dll
-H:\C# Projetos\Projetos\AnaliseIP\Email\obj\Release\Email.pdb

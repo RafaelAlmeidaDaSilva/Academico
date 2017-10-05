@@ -1,4 +1,0 @@
-/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/exSurpresaAniversarioObserver/bin/Debug/netcoreapp1.1/exSurpresaAniversarioObserver.deps.json
-/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/exSurpresaAniversarioObserver/bin/Debug/netcoreapp1.1/exSurpresaAniversarioObserver.runtimeconfig.json
-/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/exSurpresaAniversarioObserver/bin/Debug/netcoreapp1.1/exSurpresaAniversarioObserver.runtimeconfig.dev.json
-/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/exSurpresaAniversarioObserver/obj/Debug/netcoreapp1.1/exSurpresaAniversarioObserver.AssemblyInfo.cs

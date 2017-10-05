@@ -1,2 +1,0 @@
-C:\Users\Orion\Documents\_PESSOAL\exemploAula08.08\exemploAula08.08\bin\Debug\exemploAula08.08.exe.config
-C:\Users\Orion\Documents\GitHub\Fatec\exemploAula08.08\exemploAula08.08\bin\Debug\exemploAula08.08.exe.config

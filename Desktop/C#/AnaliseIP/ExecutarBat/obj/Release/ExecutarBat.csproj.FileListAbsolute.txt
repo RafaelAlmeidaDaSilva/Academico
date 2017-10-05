@@ -1,9 +1,0 @@
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\ExecutarBat.dll
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\ExecutarBat.pdb
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\Email.dll
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\ObterIp.dll
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\Email.pdb
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\bin\Release\ObterIp.pdb
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Release\ExecutarBat.csprojResolveAssemblyReference.cache
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Release\ExecutarBat.dll
-H:\C# Projetos\Projetos\AnaliseIP\ExecutarBat\obj\Release\ExecutarBat.pdb

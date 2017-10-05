@@ -1,9 +1,0 @@
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\bin\Debug\DesignKey.exe.config
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\bin\Debug\DesignKey.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\bin\Debug\DesignKey.pdb
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.Form1.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.Properties.Resources.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.csproj.GenerateResource.Cache
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.pdb
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\DesignKey\DesignKey\obj\Debug\DesignKey.csprojResolveAssemblyReference.cache

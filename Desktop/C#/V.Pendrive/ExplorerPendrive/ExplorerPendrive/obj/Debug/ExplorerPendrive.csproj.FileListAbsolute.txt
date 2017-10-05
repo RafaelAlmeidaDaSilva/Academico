@@ -1,9 +1,0 @@
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\bin\Debug\ExplorerPendrive.exe.config
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\bin\Debug\ExplorerPendrive.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\bin\Debug\ExplorerPendrive.pdb
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.csprojResolveAssemblyReference.cache
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.Form1.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.Properties.Resources.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.csproj.GenerateResource.Cache
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\ExplorerPendrive\ExplorerPendrive\obj\Debug\ExplorerPendrive.pdb

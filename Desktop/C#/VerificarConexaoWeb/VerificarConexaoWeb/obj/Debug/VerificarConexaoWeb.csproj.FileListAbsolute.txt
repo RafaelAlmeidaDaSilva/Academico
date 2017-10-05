@@ -1,8 +1,0 @@
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\bin\Debug\VerificarConexaoWeb.exe.config
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\obj\Debug\VerificarConexaoWeb.Form1.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\obj\Debug\VerificarConexaoWeb.Properties.Resources.resources
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\obj\Debug\VerificarConexaoWeb.csproj.GenerateResource.Cache
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\bin\Debug\VerificarConexaoWeb.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\bin\Debug\VerificarConexaoWeb.pdb
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\obj\Debug\VerificarConexaoWeb.exe
-C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\VerificarConexaoWeb\VerificarConexaoWeb\obj\Debug\VerificarConexaoWeb.pdb
