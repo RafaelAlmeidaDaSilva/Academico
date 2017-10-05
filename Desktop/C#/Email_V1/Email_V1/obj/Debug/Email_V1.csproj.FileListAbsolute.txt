@@ -1,0 +1,12 @@
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\bin\Debug\Email_V1.exe.config
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\bin\Debug\Email_V1.exe
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\bin\Debug\Email_V1.pdb
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.csprojResolveAssemblyReference.cache
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.Form1.resources
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.Properties.Resources.resources
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.csproj.GenerateResource.Cache
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.exe
+c:\users\orion\documents\visual studio 2013\Projects\Email_V1\Email_V1\obj\Debug\Email_V1.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\Email_V1\Email_V1\bin\Debug\Email_V1.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\Email_V1\Email_V1\obj\Debug\Email_V1.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Keylogger\Email_V1\Email_V1\obj\Debug\Email_V1.pdb

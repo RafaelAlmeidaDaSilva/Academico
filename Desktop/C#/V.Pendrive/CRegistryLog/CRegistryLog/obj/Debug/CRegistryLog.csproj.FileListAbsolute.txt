@@ -1,0 +1,5 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\CRegistryLog\CRegistryLog\bin\Debug\CRegistryLog.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\CRegistryLog\CRegistryLog\bin\Debug\CRegistryLog.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\CRegistryLog\CRegistryLog\obj\Debug\CRegistryLog.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\CRegistryLog\CRegistryLog\obj\Debug\CRegistryLog.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\V.Pendrive\CRegistryLog\CRegistryLog\obj\Debug\CRegistryLog.pdb

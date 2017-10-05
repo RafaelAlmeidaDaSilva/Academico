@@ -1,0 +1,23 @@
+﻿Build started 17/04/2016 19:01:30.
+     1>Project "c:\Users\Orion\documents\visual studio 2013\Projects\Exemplos_Leitura_Gravação_Arquivos\Exemplos_Leitura_Gravação_Arquivos\Exemplos_Leitura_Gravação_Arquivos.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Exemplo_Criação_Arquivo_fOpen.cpp" Exemplo_Leitura_Arquivo_Texto_fGets.cpp Exemplo_Leitura_Arquivo_Texto_fPrintf.cpp Exemplo_Leitura_Arquivo_Texto_fPuts.cpp Exemplo_Leitura_Arquivo_Texto_fScanf.cpp
+         Exemplo_Leitura_Arquivo_Texto_fScanf.cpp
+     1>c:\users\orion\documents\visual studio 2013\projects\exemplos_leitura_gravação_arquivos\exemplos_leitura_gravação_arquivos\exemplo_leitura_arquivo_texto_fscanf.cpp(26): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+         Exemplo_Leitura_Arquivo_Texto_fPuts.cpp
+     1>c:\users\orion\documents\visual studio 2013\projects\exemplos_leitura_gravação_arquivos\exemplos_leitura_gravação_arquivos\exemplo_leitura_arquivo_texto_fputs.cpp(9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+         Exemplo_Leitura_Arquivo_Texto_fPrintf.cpp
+         Exemplo_Leitura_Arquivo_Texto_fGets.cpp
+     1>c:\users\orion\documents\visual studio 2013\projects\exemplos_leitura_gravação_arquivos\exemplos_leitura_gravação_arquivos\exemplo_leitura_arquivo_texto_fgets.cpp(16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+         Exemplo_Criação_Arquivo_fOpen.cpp
+     1>c:\users\orion\documents\visual studio 2013\projects\exemplos_leitura_gravação_arquivos\exemplos_leitura_gravação_arquivos\exemplo_criação_arquivo_fopen.cpp(10): warning C4101: 'result' : unreferenced local variable
+     1>c:\users\orion\documents\visual studio 2013\projects\exemplos_leitura_gravação_arquivos\exemplos_leitura_gravação_arquivos\exemplo_criação_arquivo_fopen.cpp(11): warning C4101: 'Str' : unreferenced local variable
+         Generating Code...
+     1>Done Building Project "c:\Users\Orion\documents\visual studio 2013\Projects\Exemplos_Leitura_Gravação_Arquivos\Exemplos_Leitura_Gravação_Arquivos\Exemplos_Leitura_Gravação_Arquivos.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.15

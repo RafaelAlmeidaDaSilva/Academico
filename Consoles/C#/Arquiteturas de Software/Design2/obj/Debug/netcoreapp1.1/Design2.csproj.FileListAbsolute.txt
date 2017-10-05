@@ -1,0 +1,8 @@
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/bin/Debug/netcoreapp1.1/Design2.deps.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/bin/Debug/netcoreapp1.1/Design2.runtimeconfig.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/bin/Debug/netcoreapp1.1/Design2.runtimeconfig.dev.json
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/bin/Debug/netcoreapp1.1/Design2.dll
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/bin/Debug/netcoreapp1.1/Design2.pdb
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/obj/Debug/netcoreapp1.1/Design2.AssemblyInfo.cs
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/obj/Debug/netcoreapp1.1/Design2.dll
+/home/rafaelalmeidadasilva/Documentos/Fatec/Consoles/ES3/Design2/obj/Debug/netcoreapp1.1/Design2.pdb

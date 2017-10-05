@@ -1,0 +1,45 @@
+#Section1
+{
+	background: #ccc;
+
+}
+
+#Setion2
+{
+	background: #fff;
+
+}
+
+#Section1 h1
+#Section1 h2
+#Section1 h3
+{
+	font-family: Arial;
+}
+#Section2 h1
+#Section2 h2
+#Section2 h3
+{
+	font-family: Helvetica;
+}
+
+
+h1
+{
+	color: red;
+	font-size: 30px;
+}
+
+h2
+{
+	color: blue;
+	font-size: 30pt;
+}
+
+h3 
+{
+	color: green;
+	font-size: 100%;
+
+}
+

@@ -1,0 +1,4 @@
+H:\C# Projetos\Projetos\AnaliseIP\ObterIp\bin\Release\ObterIp.dll
+H:\C# Projetos\Projetos\AnaliseIP\ObterIp\bin\Release\ObterIp.pdb
+H:\C# Projetos\Projetos\AnaliseIP\ObterIp\obj\Release\ObterIp.dll
+H:\C# Projetos\Projetos\AnaliseIP\ObterIp\obj\Release\ObterIp.pdb
