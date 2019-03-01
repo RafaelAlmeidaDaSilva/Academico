@@ -1,0 +1,141 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace question
+{
+
+//Rextester.Program.Main is the entry point for your code. Don't change it.
+//Compiler version 4.0.30319.17929 for Microsoft (R) .NET Framework 4.5
+
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            char r;
+            int pontos = 0;
+            bool[] resposta = new bool[5];
+            bool[] solucao = new bool[5];
+            solucao[0] = true;
+            solucao[1] = false;
+            solucao[2] = false;
+            solucao[3] = false;
+            solucao[4] = false;
+
+            Avaliacao avaliacao = new Avaliacao();
+          
+           
+          
+
+            Console.WriteLine("Digite a quantidade de alunos que iram fazer a prova: ");
+             int limite = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < limite; i++)
+            {
+                Console.WriteLine("______________PROVA______________");
+                Prova p = new Prova();
+
+
+                Console.WriteLine("__________DADOS DO ALUNO__________");
+                Aluno aluno = new Aluno();
+
+                Console.WriteLine("Nome:");
+                aluno.nome = Console.ReadLine();
+
+
+
+                // questoes 
+                Console.WriteLine(" \n 1) IA fraca estuda a solução de sistemas complexos ?");
+                Console.WriteLine("Responda V - verdadeiro   F - falso");
+                r = Console.ReadKey().KeyChar;
+                resposta[0] = boolear(r);
+
+                Console.WriteLine(" \n 2) Para transportar os três discos empilhados de um poste para um poste vizinho do problema das torres de Hanoi  a quantidade minima de passos é 12 ?");
+                Console.WriteLine("Responda V - verdadeiro   F - falso");
+                r = Console.ReadKey().KeyChar;
+                resposta[1] = boolear(r);
+
+                Console.WriteLine(" \n 3) A quantidade de estados do jogo da velha que garantem a vitoria do jogador X na sua proxima jogada, independente da jogada que fizer o jogador O é 8 ?");
+                Console.WriteLine("Responda V - verdadeiro   F - falso");
+                r = Console.ReadKey().KeyChar;
+                resposta[2] = boolear(r);
+
+                Console.WriteLine(" \n 4) Nos anos 60 Alan Turing  publicou o artigo 'Computing  Machinery & Intelligence ' ?");
+                Console.WriteLine("Responda V - verdadeiro   F - falso");
+                r = Console.ReadKey().KeyChar;
+                resposta[3] = boolear(r);
+
+                Console.WriteLine(" \n 5) Segundo a filosofia a IA é um dom divino que nos torna semelhantes ao criador ?");
+                Console.WriteLine("Responda V - verdadeiro   F - falso");
+                r = Console.ReadKey().KeyChar;
+                resposta[4] = boolear(r);
+
+
+                // corrigir ou dar nota
+                for (int io = 0; io < 5; io++)
+                {
+                    if (resposta[io] == solucao[io])
+                        pontos++;
+
+                }
+
+                Console.WriteLine("\n Nota : {0}", (pontos * 2));
+                r = Console.ReadKey().KeyChar;
+                p.dono = aluno;
+                p.nota = (pontos * 2);
+                Dictionary<Aluno, Prova> aluno_prova = new Dictionary<Aluno, Prova>();
+                aluno_prova.Add(aluno, p);
+                avaliacao.provas.Add(aluno_prova);
+
+               
+            }
+            // pegar o aluno com a maior nota 
+
+            foreach (var prova in avaliacao.provas)
+            {
+                prova.
+            }
+
+
+        }
+
+        public static bool boolear(char resposta)
+        {
+            if (resposta == 'f')
+                return false;
+            else
+                return true;
+        }
+    }
+
+    public class Aluno
+    {
+
+        public string  nome{ get; set; }
+        public int media { get; set; }
+    }
+
+
+    public class classe
+    {
+        public List<Aluno> alunos { get; set; }
+    }
+
+    public class Prova
+    {
+        public int nota { get; set; }
+        public Aluno dono { get; set; }
+
+
+    }
+
+
+    public class Avaliacao {
+
+            public List<Dictionary<Aluno, Prova>> provas{ get; set; }
+    }
+
+    // trazer o aluno com a maior nota 
+    //
+}
