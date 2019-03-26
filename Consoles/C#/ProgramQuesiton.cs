@@ -69,11 +69,11 @@ public class Quiz
 {
 	public List<Question> questions {get;set;}
 	
-	public correctQuestions(){
+	public void correctQuestions(){
+		//this.questions.ForEach(q => q.correct);
 		foreach(Question q in questions)
-		{
 			q.correct();
-		}
+		
 	}
 	
 }
