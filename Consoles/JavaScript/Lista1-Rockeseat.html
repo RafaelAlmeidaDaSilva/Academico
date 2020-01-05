@@ -1,0 +1,129 @@
+<html>
+    <head>
+        <title>Home - curso js </title>
+    </head>
+
+    <!-- STYLE -->
+   <style>
+   </style>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- SCRIPT -->    
+    <script>
+        // Cabeçalho
+
+        var autor = "Rafael Almeida da Silva";
+        var bio = "Programador, iniciando em javascript.";
+        var sexo = "M";
+
+
+
+        // Lista de exercicios 
+        
+        // #1
+        function enderecoUsuario(endereco){
+            return "#1 O usuario mora na"+ endereco.cidade+ "/ "+endereco.uf+", bairro "+endereco.bairro+", na "+ endereco.rua + ", com n°"+endereco.numero;
+        }
+
+        var endereco = {
+                        rua: "Rua dos pinheiros",
+                        numero: 1293,
+                        bairro: "Centro",
+                        cidade: "São Paulo",
+                        uf: "SP"
+                        };
+                        
+         console.log(enderecoUsuario(endereco));              
+        
+        
+        
+        //#2
+        function pares (x ,y){
+            console.log("#2")
+            for(i=x;i<=y;i++){
+                if(i%2==0)
+                    console.log(i);
+                
+            }
+                
+        }
+
+        pares(32,321);
+
+                                
+        //#3
+        var skills = ["JavaScript", "ReactJs", "NodeJs", "React Native"];
+       // #4
+        function habilidades(skill, skills){
+
+            var retorno = false;
+            for(i=0; i < skills.lastIndexOf;i++){
+                retorno =  (skill === skills[i]) ? true: false ;
+                if(retorno == true)
+                 return retorno;
+            } 
+            return retorno;
+        }    
+        console.log("#3 JavaScript: "+findHability("JavaScript", skills));
+
+
+        function experiencia(anos) {
+            console.log("#4 Medidor de programador");
+            console.log("");
+            if(anos < 1){
+                // iniciante
+                console.log("nível:Iniciante");
+            }else 
+            if(anos > 1){
+                
+                if(anos < 3 )
+                //intermediario
+                console.log("nível: Intermediário");
+                
+                if(anos >= 3 && anos <=6)
+                    //avançado
+                    console.log("nível: Avançado ");
+
+                if(anos >6 && anos <=7)
+                    //jedi
+                    console.log("nível: Jedi");
+
+                if(anos >7)
+                    //jedi
+                    console.log("nível: Jedi Master");
+
+            }
+           }
+        var anosEstudo = 7;
+        experiencia(anosEstudo);  
+
+        //#5
+        
+        function resumoConhecimentos(perfil){
+            return "#1 O "+perfil[0].nome+" tem os seguintes conhecimentos: "+perfil[0].habilidades[0]+","+perfil[0].habilidades[1]+","+perfil[0].habilidades[2];
+        }
+        
+        
+        var perfil = [
+            {
+                nome: "Rafael Almeida da Silva",
+                habilidades: ["Javascript", "Java", "C#"]
+            },
+            {
+                nome: "Gabriel",
+                habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+            }
+            ];
+
+    </script>
+</html>
