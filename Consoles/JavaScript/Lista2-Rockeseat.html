@@ -1,0 +1,172 @@
+<html>
+    <head>
+        <title>Home - curso js </title>
+    </head>
+
+    <!-- STYLE -->
+   <style>
+       .box{
+        /*definimos a largura do box*/
+        width:400px;
+        /* definimos a altura do box */
+        height:200px;
+        /* definimos a cor de fundo do box */
+        background-color:#6495ed;
+        /* definimos o quão arredondado irá ficar nosso box */
+        border-radius: 10px 20px 10px ;
+        } 
+   </style>
+
+
+
+
+
+
+
+<body>
+        <!-- HTML -->
+        <div class="box" id="app">
+            <label for="nome">Title</label>
+            <input type="text" name="title" id="title">
+            <label for="mensagem">Mensagem</label>
+            <textarea name="mensagem" id="" cols="25" rows="4"></textarea>
+            <button class="btnAdd">Adicionar</button>
+        </div>
+
+        <div class="box">
+            <p>
+                <b>post: 0001.</b>
+            <p>
+            <p>
+               <li><b>Autor:</b> Rafael Almeida da Silva.</li> 
+               <li><b>Bio:</b> Programador</li>
+               <li><b>Sexo:</b> Masculino</li>
+            </p>
+            
+
+        </div>
+
+
+
+
+
+
+    </body>
+
+    <!-- SCRIPT -->    
+    <script>
+        //#Lista2
+        //#2
+        function getRandomColor() {
+        var letters = "0123456789ABCDEF";
+        var color = "#";
+        for (var i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+        }
+        var newColor = getRandomColor(); // #E943F0
+
+        //#1
+        var divArea = document.createElement('div');
+        var divApp = document.createElement('div');
+        var btnCriar = document.createElement('button');
+        var textLegenda = document.createElement('input');
+        var textCriar = document.createTextNode('Criar');
+        var centerdiv= document.createElement('center');
+        
+        btnCriar.name = 'btnCriar';
+        btnCriar.setAttribute.name='Criar';
+        textLegenda.name='txtLegenda';
+        divArea.className= 'box'; 
+
+        btnCriar.appendChild(textCriar);
+        btnCriar.value= 'Criar';
+    
+        textLegenda.style.height= '30';
+        textLegenda.style.width='300';
+        btnCriar.style.height= '30';
+        btnCriar.style.width='60';
+        
+        divArea.style.height= '600';// altura 
+        divArea.style.width='780'; // largura
+        //textLegenda.style.cssFloat= 'left';
+
+        divApp.style.alignContent='center';
+      
+        divApp.appendChild(textLegenda);
+        divApp.appendChild(btnCriar);
+        divApp.style.padding = '10';
+        centerdiv.appendChild(divApp);
+        divArea.appendChild(centerdiv);
+        divArea.style.padding = '10'; 
+        var body =document.querySelector('body');
+        body.appendChild(divArea); 
+        btnCriar.onclick = function(){
+            var divCaixa = document.createElement('div')
+            divCaixa.className = 'caixa';
+            divCaixa.style.height = (600/5); 
+            divCaixa.style.width = (775);
+            divCaixa.style.backgroundColor = getRandomColor();
+            divArea.appendChild(divCaixa);
+            var h3 = document.createElement('h3');
+            var txt = document.querySelector('input[name=txtLegenda]');
+            var text = document.createTextNode(txt.value);
+            h3.appendChild(text); 
+            h3.style.alignContent= 'center'; 
+            var center = document.createElement('center');
+            center.appendChild(h3);
+            divCaixa.appendChild(center);    
+           
+        }
+
+        
+       
+        
+
+
+        // pegando referencia de objeto html
+        var inputTitle = document.querySelector('input[name=title]');
+        var inputMensagem = document.querySelector('input[name=mensagem]');
+
+        var btnAdicionar = document.querySelector('button.btnAdd');
+
+        btnAdicionar.onclick = function(){
+            var text = inputTitle.value;
+
+            alert(text);
+        }
+
+
+        // criando objeto html
+
+        var linkElement = document.createElement('a');
+        linkElement.setAttribute('href','https://skylab.rocketseat.com.br/node/curso-java-script/group/manipulando-a-dom/lesson/lidando-com-elementos')
+            // criar text 
+            var textElement = document.createTextNode('Acessar videos da Rockeseat');
+        
+            // adicionar a link 
+            linkElement.appendChild(textElement);
+
+            var div = document.querySelector('div.box');
+            div.appendChild(linkElement);   
+
+
+        // Cabeçalho
+
+        var autor = "Rafael Almeida da Silva";
+        var bio = "Programador, iniciando em javascript.";
+        var sexo = "M";
+
+        var messenger = ['hello world','...'];
+        var post = { title: '', arquivo:'foto/video'};
+        
+        console.log("Autor: "+ autor);
+        console.log("Bio: "+ bio);
+        var retorno = (sexo ==="M") ? 'Masculino' : 'Feminino';
+        console.log("Sexo: " +retorno);
+        console.log("post: 1")
+
+
+    </script>
+</html>
