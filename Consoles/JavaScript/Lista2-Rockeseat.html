@@ -1,6 +1,8 @@
 <html>
     <head>
         <title>Home - curso js </title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        
     </head>
 
     <!-- STYLE -->
@@ -11,10 +13,36 @@
         /* definimos a altura do box */
         height:200px;
         /* definimos a cor de fundo do box */
-        background-color:#6495ed;
+        /*background-color:#6495ed;*/
         /* definimos o quão arredondado irá ficar nosso box */
-        border-radius: 10px 20px 10px ;
+        border-radius: 10px 10px 10px ;
         } 
+
+        button {
+    -webkit-appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: buttonface;
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+    border-radius: 20px 20px 20px ;
+}
    </style>
 
 
@@ -24,16 +52,16 @@
 
 
 <body>
-        <!-- HTML -->
+        <!-- HTML
         <div class="box" id="app">
             <label for="nome">Title</label>
             <input type="text" name="title" id="title">
             <label for="mensagem">Mensagem</label>
             <textarea name="mensagem" id="" cols="25" rows="4"></textarea>
             <button class="btnAdd">Adicionar</button>
-        </div>
+        </div> -->
 
-        <div class="box">
+        <div class="box jumbotron">
             <p>
                 <b>post: 0001.</b>
             <p>
@@ -55,15 +83,22 @@
 
     <!-- SCRIPT -->    
     <script>
+
+        var Posts = [{
+            legenda: 'Não me roube a solidão antes de me proporcional uma boa companhia' 
+        }, {legenda: 'Existem 3 tipos de morte. Morte da inocencia, da ingenuidade e ...'}];
+
+        var ultimoRegistro ;
+
         //#Lista2
         //#2
         function getRandomColor() {
-        var letters = "0123456789ABCDEF";
-        var color = "#";
-        for (var i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-        }
-        return color;
+            var letters = "0123456789ABCDEF";
+            var color = "#";
+            for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+            }
+         return color;
         }
         var newColor = getRandomColor(); // #E943F0
 
@@ -72,13 +107,19 @@
         var divApp = document.createElement('div');
         var btnCriar = document.createElement('button');
         var textLegenda = document.createElement('input');
+        var textAreaDescricao = document.createElement('imput');
         var textCriar = document.createTextNode('Criar');
         var centerdiv= document.createElement('center');
+
+        textAreaDescricao.setAttribute('type','area');
         
         btnCriar.name = 'btnCriar';
         btnCriar.setAttribute.name='Criar';
+        btnCriar.className='btn btn-primary';   
         textLegenda.name='txtLegenda';
-        divArea.className= 'box'; 
+        divArea.className ='box jumbotron';
+        
+        divApp.className='form-group';
 
         btnCriar.appendChild(textCriar);
         btnCriar.value= 'Criar';
@@ -100,28 +141,135 @@
         centerdiv.appendChild(divApp);
         divArea.appendChild(centerdiv);
         divArea.style.padding = '10'; 
+        divArea.style.margin ='10';
+        var sectionPostagem = document.createElement('section');
+        sectionPostagem.id='postagens';
         var body =document.querySelector('body');
-        body.appendChild(divArea); 
+        
+        sectionPostagem.appendChild(divArea);
+        sectionPostagem[0];
+        body.appendChild(sectionPostagem); 
+        renderPost(Posts);
+
+        // ONCLICK => BOTÃO "CRIAR"
         btnCriar.onclick = function(){
+
+            var h4 = document.createElement('h5');
+            var txt = document.querySelector('input[name=txtLegenda]');
+            var text = document.createTextNode(txt.value);
+            if(txt.value !== ''){
+            // CONSTRUÇÃO DIV "Caixa colorida"
+            var divCaixa = document.createElement('div')
+            divCaixa.className = 'box';
+            divCaixa.style.height = (600/5); 
+            divCaixa.style.width = (750);
+            var corrandom = getRandomColor();
+            divCaixa.style.backgroundColor = corrandom;
+
+            // "DIVCAIXA" FILHO DE "DIVAREA"
+            divArea.appendChild(divCaixa);
+            
+            //ELEMENTOS DO "DIVCAIXA" 
+            txt.value='';
+            h4.appendChild(text); 
+            h4.style.alignContent= 'center'; 
+            var center = document.createElement('center');
+            center.appendChild(h4);
+            divCaixa.appendChild(center);
+            var textExcluir = document.createTextNode('Excluir');
+            var btnExcluir= document.createElement('button'); 
+            btnExcluir.className='btn btn-danger';
+            btnExcluir.style.height='30';
+            btnExcluir.style.width='60';
+            btnExcluir.style.cssFloat= 'Right';
+            btnExcluir.appendChild(textExcluir);
+
+            //ESTRUTURA DE ARMAZENAMENTO DE CONTEÚDO
+            //...
+            btnExcluir.onclick = function(){
+                divArea.removeChild(divCaixa);
+                Posts[Posts.indexOf(txt.value)] ='';
+                saveCookie();
+            }
+
+
+            // ONCLICK => BOTÂO "EXCLUIR"
+            divCaixa.appendChild(btnExcluir);
+
+            Posts[ultimoRegistro++] += [{legenda:txt.value, cor: corrandom}];
+             saveCookie();
+            
+            }else{
+                alert('Preencha o campo de legenda!');
+                console.log('Preencha o campo de legenda!');
+            }
+        }
+
+        function saveCookie(){
+            localStorage.setItem('list_itens', JSON.stringify(Posts))
+        }
+        
+    
+        function getPostSave (){
+            Posts = JSON.parse(localStorage.getItem('list_itens'));
+        }
+
+        body.onload = function(){
+            getPostSave();
+            renderPost(Posts);
+        }
+        
+        function renderPost(Posts){
+            for(post of Posts){
+                console.log(post);
+                postagem(post.legenda,getRandomColor());
+            }
+        }
+        function deletePost(i){
+            Posts
+        }
+        function postagem(legenda, cor){
+            
+           
+            // CONSTRUÇÃO DIV "Caixa colorida"
             var divCaixa = document.createElement('div')
             divCaixa.className = 'caixa';
             divCaixa.style.height = (600/5); 
-            divCaixa.style.width = (775);
-            divCaixa.style.backgroundColor = getRandomColor();
+            divCaixa.style.width = (750);
+            var corrandom = getRandomColor();
+            divCaixa.style.backgroundColor = cor;
+
+            // "DIVCAIXA" FILHO DE "DIVAREA"
             divArea.appendChild(divCaixa);
-            var h3 = document.createElement('h3');
-            var txt = document.querySelector('input[name=txtLegenda]');
-            var text = document.createTextNode(txt.value);
-            h3.appendChild(text); 
-            h3.style.alignContent= 'center'; 
+            //ELEMENTOS DO "DIVCAIXA" 
+            var h4 = document.createElement('h5');
+            var text = document.createTextNode(legenda);
+            h4.appendChild(text); 
+            h4.style.alignContent= 'center'; 
             var center = document.createElement('center');
-            center.appendChild(h3);
-            divCaixa.appendChild(center);    
-           
+            center.appendChild(h4);
+            divCaixa.appendChild(center);
+            var textExcluir = document.createTextNode('Excluir');
+            var btnExcluir= document.createElement('button');
+            btnExcluir.className='btn btn-danger';   
+            btnExcluir.style.height='30';
+            btnExcluir.style.width='60';
+            btnExcluir.style.cssFloat= 'Right';
+            btnExcluir.appendChild(textExcluir);
+            
+            saveCookie();
+            btnExcluir.onclick = function(){
+                divArea.removeChild(divCaixa);
+                Posts[Posts.indexOf(legenda)] ='';
+                saveCookie();
+            }
+            divCaixa.appendChild(btnExcluir);
+
+    
         }
+        
 
         
-       
         
 
 
@@ -131,11 +279,11 @@
 
         var btnAdicionar = document.querySelector('button.btnAdd');
 
-        btnAdicionar.onclick = function(){
-            var text = inputTitle.value;
+        // btnAdicionar.onclick = function(){
+        //     var text = inputTitle.value;
 
-            alert(text);
-        }
+        //     alert(text);
+        // }
 
 
         // criando objeto html
@@ -167,6 +315,11 @@
         console.log("Sexo: " +retorno);
         console.log("post: 1")
 
+        
 
     </script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </html>
